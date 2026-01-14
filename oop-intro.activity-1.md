@@ -8,7 +8,7 @@ Fruit
 
 ---
 # Object 1
-color: orange
+color: orange\n
 shape: circle
 
 # Object 2
