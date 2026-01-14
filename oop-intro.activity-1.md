@@ -1,6 +1,7 @@
 # Class
 Fruit
 
+---
 # Properties
 - color
 - shape
