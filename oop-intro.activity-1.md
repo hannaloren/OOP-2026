@@ -8,9 +8,9 @@ Fruit
 
 ---
 # Object 1
-color: orange\n
-shape: circle
+-color: orange
+-shape: circle
 
 # Object 2
-color: yellow
-shape: oval 
+-color: yellow
+-shape: oval 
